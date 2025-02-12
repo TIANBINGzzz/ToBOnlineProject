@@ -1,0 +1,15 @@
+bridge:
+  mysql:
+    host: localhost
+    port: 3306
+    username: root
+    pw: 5211
+    database: bridge_notification
+  nacos:
+    addr: localhost:8848
+  mq:
+    host: localhost
+    port: 5672
+    virtual: /
+    username: guest
+    pw: guest
