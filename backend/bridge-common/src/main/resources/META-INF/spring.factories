@@ -1,4 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.steam.common.config.MvcConfig,\
-  com.steam.common.config.MyBatisConfig,\
-  com.steam.common.config.MqConfig

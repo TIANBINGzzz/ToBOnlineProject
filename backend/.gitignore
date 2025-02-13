@@ -1,8 +1,0 @@
-**/target/
-*.sock
-*.log
-./elasticsearch/*
-./mongo_data/*
-./mysql_data/*
-./rabbitmq_data/*
-./redis_data/*
