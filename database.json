@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "123@gmail.com",
+      "password": 123,
+      "admin": false
+    },
+    {
+      "id": "2",
+      "email": "456@gmail.com",
+      "password": 456
+    },
+    {
+      "id": "debc",
+      "email": "789@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "303c",
+      "email": "123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8f2e",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "54cd",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2063",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "fec7",
+      "email": "123@qq.com",
+      "password": "123"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "e-commerce platform",
+      "content": "We're seeking an experienced developer or team to build an MVP for a cutting-edge e-commerce platform. Our vision is to create a seamless connection between businesses and consumers for customized merchandise orders, revolutionizing how branded products are sold and distributed. You will be responsible for developing a clean and efficient codebase that aligns with our branding guidelines. If you have a keen eye for detail and a passion for creating user-friendly interfaces, we’d love to hear from you!",
+      "date": "2024/10/1",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "location": "Australia",
+      "duration": "1 month"
+    },
+    {
+      "id": "2",
+      "title": "FPS game",
+      "content": "We are planning to develop a FPS game using unreal engine",
+      "date": "2024/09/10",
+      "skills": [
+        "C++",
+        "Unreal Engine"
+      ],
+      "location": "United States",
+      "duration": "1 year"
+    },
+    {
+      "id": "3",
+      "title": "AI-Powered Healthcare App",
+      "content": "We are creating an AI-powered healthcare app that provides real-time health monitoring and personalized fitness recommendations.",
+      "date": "2024/08/15",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "React Native"
+      ],
+      "location": "Germany",
+      "duration": "6 months"
+    },
+    {
+      "id": "4",
+      "title": "E-Commerce Platform",
+      "content": "Our team is building a scalable e-commerce platform with integrated payment gateways and advanced product recommendation algorithms.",
+      "date": "2024/07/22",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MongoDB"
+      ],
+      "location": "Canada",
+      "duration": "8 months"
+    },
+    {
+      "id": "5",
+      "title": "Augmented Reality Education App",
+      "content": "Developing an augmented reality app aimed at enhancing interactive learning experiences for school students.",
+      "date": "2024/10/01",
+      "skills": [
+        "Unity",
+        "C#",
+        "ARCore"
+      ],
+      "location": "United Kingdom",
+      "duration": "1 year"
+    },
+    {
+      "id": "6",
+      "title": "Blockchain-Based Supply Chain Solution",
+      "content": "Designing a blockchain solution for secure and transparent tracking of goods throughout the supply chain.",
+      "date": "2024/06/18",
+      "skills": [
+        "Solidity",
+        "Ethereum",
+        "Node.js"
+      ],
+      "location": "Singapore",
+      "duration": "1.5 years"
+    },
+    {
+      "id": "7",
+      "title": "Smart Home Automation System",
+      "content": "Building a smart home automation system using IoT technologies for managing lighting, security, and appliances remotely.",
+      "date": "2024/09/28",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "IoT"
+      ],
+      "location": "Australia",
+      "duration": "9 months"
+    }
+  ]
+}
